@@ -1,0 +1,13 @@
+.btn{
+    width:220px;
+    height:80px;
+    background-color: blue;
+    border-radius: 0%;
+    border-top:grey 1px solid;
+    border-left:grey 1px solid;
+}
+.btn:hover{
+    background-color: green;
+    border-top:grey 1px solid;
+    border-left:grey 1px solid;
+}
