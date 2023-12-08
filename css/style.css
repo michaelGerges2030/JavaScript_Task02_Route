@@ -1,13 +1,16 @@
+body{
+    font-family: 'EB Garamond';
+}
 .btn{
-    width:220px;
-    height:80px;
-    background-color: blue;
-    border-radius: 0%;
+    width:250px;
+    height:50px;
+    background-color: rgb(77, 171, 248);
+    border-radius: 5%;
     border-top:grey 1px solid;
     border-left:grey 1px solid;
 }
 .btn:hover{
-    background-color: green;
+    background-color: rgb(142, 255, 142);
     border-top:grey 1px solid;
     border-left:grey 1px solid;
 }
